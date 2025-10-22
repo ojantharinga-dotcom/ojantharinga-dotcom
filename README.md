@@ -1,13 +1,16 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <h1 align="center">Hi 👋, I'm Ojan Tharinga</h1>
 <h3 align="center">A passionate frontend developer Sri lanka</h3>
 
 - 🌱 I’m currently learning **c ,java script,java,typescript**
 
+- 🧑‍🎓 I’m an Undergraduate Student University Of Sabaragamuwa
+
 - 💬 Ask me about **c,java**
 
 - 📫 How to reach me **ojan.tharinga@gamil.com**
 
-- 📄 Know about my experiences [peoples bank school leaver traning]
+- 📄 Know about my experiences [peoples bank school leaver trainee]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <center><a href="https://linkedin.com/in/http://linkedin.com/in/ojan-tharinga-b195a6311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ojan-tharinga-b195a6311" height="30" width="40" /></a>
